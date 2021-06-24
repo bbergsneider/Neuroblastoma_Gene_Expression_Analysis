@@ -5,6 +5,6 @@ So far, I have uploaded functions to analyze the TARGET neuroblastoma gene expre
 
 I suggest downloading all files in this repository and saving them to a single directory. All functions for analyzing TARGET data are included in the 'TARGET_Analysis_Functions_v2.ipynb' file. In order to run the functions in this file, you need the 'neuroblastoma_gene_expression_analysis_files' folder saved in the same directory. For a tutorial on how to use the functions, please see the 'TARGET_Analysis_Tutorial.ipynb' file.
 
-All .ipynb files are meant to be run using Python3 on Jupyter Notebook.
+All .ipynb files are meant to be run on Jupyter Notebook using Python 3.
 
 If you have any questions, please email me at brandon.bergsneider20@imperial.ac.uk
